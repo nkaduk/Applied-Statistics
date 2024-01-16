@@ -11,7 +11,5 @@ The first few regression problems are obtained from the alr4 datasets.  Homework
 Homework 3 takes the average fall temperatures (over several years) and uses them to predict winter temperatures.  It also forms a hypothesis test on the slope for fall temperature.  Next, the homework focuses on finding the relationship between mother's height on daughter's height.  To this this, it estimates the regression line para,mters as usual, but also forms a 99% confidence interval using the standard error for the slope estimate.  
 
 
-* 
-
 Future work:
 
